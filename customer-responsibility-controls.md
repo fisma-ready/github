@@ -36,4 +36,4 @@ Go to your organization's [team page](https://github.com/orgs/18F/people) and cl
 
 Even if you don't have write access into a repo, we strongly encourage the submission of pull requests for improvements or fixes.
 
-Contractors or external collaborators should only be added to teams with scoped write permissions to the repos they're working on. They should never have Admin level rights. In order to separate out these permissions, create a team in the format of `projectname-admins` for staff. Please coordinate with DevOps in the Slack channel when on-boarding contractors or external collaborators.
+Contractors or external collaborators should only be added to teams with scoped write permissions to the repos they're working on. They should never have Admin level rights. In order to separate out these permissions, create a team in the format of `projectname-admins` for Federal staff.

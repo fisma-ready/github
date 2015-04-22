@@ -6,13 +6,13 @@ These are the requirements to join our GitHub organization. None are optional.
 
 If you haven't created a GitHub account yet, do so with your Federal email, which will assist with [records retention](http://ben.balter.com/open-source-for-government/#records).  
 
-If you already have a GitHub account, simply [add your Federal email to your existing account](https://help.github.com/articles/adding-an-email-address-to-your-github-account/). Do not create a new account. You can also set up custom email routing through the [Notifications Center](https://github.com/settings/notifications).  
+If you already have a GitHub account, simply [add your Goverment email to your existing account](https://help.github.com/articles/adding-an-email-address-to-your-github-account/). Do not create a new account. You can also set up custom email routing through the [Notifications Center](https://github.com/settings/notifications). Make sure your commits are tied to your Government email address.
 
-### Setting up account profile
+### Setting up an account profile
 
 #### [Activate 2-factor Authentication](https://github.com/blog/1614-two-factor-authentication)
 
-All team Federal are *required* to employ 2-factor authentication (2FA) for their GitHub access. While you're at it, it's a *very, very* good idea to do this for your [Gmail account](http://lifehacker.com/5932700/please-turn-on-two-factor-authentication/all) and [elsewhere](http://lifehacker.com/5938565/heres-everywhere-you-should-enable-two-factor-authentication-right-now/all). GitHub access _will not_ be provided if 2FA is turned off.
+All team Federal are *required* to employ 2-factor authentication (2FA) for their GitHub access. While you're at it, it's a *very, very* good idea to do this for your [Gmail account](http://lifehacker.com/5932700/please-turn-on-two-factor-authentication/all) and [elsewhere](http://lifehacker.com/5938565/heres-everywhere-you-should-enable-two-factor-authentication-right-now/all). GitHub access _will not_ be provided if 2FA is turned off. Also be sure to [save your recovery codes](https://help.github.com/articles/downloading-your-two-factor-authentication-recovery-codes/) in case you lose access to 2FA.
 
 #### [Add your name to your account](https://github.com/18F/Using-GitHub/blob/master/best_practices.md#be-sure-your-account-has-your-name)
 
@@ -28,7 +28,6 @@ This is a simple courtesy that makes team projects all the more social and fun. 
 It only takes a moment to go to [your settings page](https://github.com/settings/profile) and upload a picture.  
 
 #### Make your membership public
-
 
 Go to your organization's [team page](https://github.com/orgs/18F/people) and click (Make Public).  
 

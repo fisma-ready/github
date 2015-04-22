@@ -12,7 +12,7 @@ If you already have a GitHub account, simply [add your goverment email to your e
 
 #### [Activate 2-factor Authentication](https://github.com/blog/1614-two-factor-authentication)
 
-Everyone is *required* to use 2-factor authentication (2FA) for their GitHub access. While you're at it, it's a *very, very* good idea to do this for your [Gmail account](http://lifehacker.com/5932700/please-turn-on-two-factor-authentication/all) and [elsewhere](http://lifehacker.com/5938565/heres-everywhere-you-should-enable-two-factor-authentication-right-now/all). GitHub access _will not_ be provided if 2FA is turned off. Also be sure to [save your recovery codes](https://help.github.com/articles/downloading-your-two-factor-authentication-recovery-codes/) in case you lose access to 2FA.
+Everyone is *required* to use 2-factor authentication (2FA) for their GitHub access. While you're at it, it's a *very, very* good idea to do this for your [email account](http://lifehacker.com/5932700/please-turn-on-two-factor-authentication/all) and [elsewhere](http://lifehacker.com/5938565/heres-everywhere-you-should-enable-two-factor-authentication-right-now/all). GitHub access _will not_ be provided if 2FA is turned off. Also be sure to [save your recovery codes](https://help.github.com/articles/downloading-your-two-factor-authentication-recovery-codes/) in case you lose access to 2FA.
 
 #### [Add your information to your account](https://github.com/settings/profile)
 

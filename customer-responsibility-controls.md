@@ -2,11 +2,17 @@
 
 These are the requirements to join our GitHub organization. None are optional, and everyone on staff _must_ have a GitHub account.
 
-## Creating an account 
+## Creating and customizing an account 
 
 If you haven't created a GitHub account yet, do so with your government email, which will assist with [records retention](http://ben.balter.com/open-source-for-government/#records).  
 
-If you already have a GitHub account, simply [add your goverment email to your existing account](https://help.github.com/articles/adding-an-email-address-to-your-github-account/). Do not create a new account. You can also set up custom email routing through the [Notifications Center](https://github.com/settings/notifications). Make sure your commits are tied to your government email address.
+If you already have a GitHub account, simply [add your goverment email to your existing account](https://help.github.com/articles/adding-an-email-address-to-your-github-account/). Do not create a new account. You can also set up custom email routing through the [Notifications Center](https://github.com/settings/notifications). Make sure your commits are [signed with your government email address](https://help.github.com/articles/setting-your-email-in-git).
+
+Note that signing commits with an email address is different from [setting notifications to go to one or another email address](https://help.github.com/articles/configuring-notification-emails-for-organizations/). You also have to change the official commit email address attached to each repo.
+
+If you’re using your work computer for personal projects on GitHub and want your personal email tied to those commits, you can set your GSA email as part of the global `.gitconfig`, then [override on a repository level](http://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration) with your personal email. If you have both emails [in your GitHub settings](https://github.com/settings/emails), though, they will both be tied to your GitHub account.
+
+Make sure you have [notifications turned on]((https://github.com/settings/notifications) and make sure your notifications are set up they way you'd like them.
 
 ### Setting up an account profile
 

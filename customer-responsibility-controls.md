@@ -16,7 +16,7 @@ Everyone is *required* to use 2-factor authentication (2FA) for their GitHub acc
 
 #### [Add your information to your account](https://github.com/settings/profile)
 
-This makes it easier for your team to know who you are and to administer the teams, but most of all, it helps a lot with autocomplete!
+This makes it easier for your team to know who you are, but most of all, it helps a lot with autocomplete!
 
 A complete [public profile](https://github.com/settings/profile) includes:
 
@@ -26,16 +26,16 @@ A complete [public profile](https://github.com/settings/profile) includes:
 
 #### [Add a profile avatar](https://help.github.com/articles/how-do-i-set-up-my-profile-picture/)
 
-This is a  courtesy that makes team projects all the more social and fun.  It only takes a second but your teammates will _really_ appreciate it. We don't requirethat it be an actual headshot, but please make it a unique avatar.
+This is a courtesy that makes team projects all the more social and fun.  It only takes a second but your teammates will _really_ appreciate it. We don't requirethat it be an actual headshot, but please make it a unique avatar.
 
 It only takes a moment to go to [your settings page](https://github.com/settings/profile) and upload a picture.  
 
 #### Make your membership public
 
-Go to your organization's [team page](https://github.com/orgs/18F/people) and click (Make Public).  
+Go to the organization's [team page](https://github.com/orgs/18F/people) and click **Make Public**.  
 
 ### Teams
 
-Even if you don't have write access into a repo, we strongly encourage the submission of pull requests for improvements or fixes.
+Teams can give you [`administrative`, `write`, or `read` permissions](https://help.github.com/articles/permission-levels-for-an-organization-repository/). Even if you have `write` access into a repository, we _strongly_ encourage the submission of pull requests for improvements or fixes.
 
-Contractors or external collaborators should only be added to teams with scoped write permissions to the repos they're working on. They should never have Admin level rights. In order to separate out these permissions, create a team in the format of `projectname-admins` for Federal staff.
+Contractors or external government collaborators should only be added to teams with scoped `write` permissions to the respositories they're working on. They should *never* have `adminsitrative` level rights. In order to separate out these permissions, create a team in the format of `projectname-admins` for government staff if necessary.

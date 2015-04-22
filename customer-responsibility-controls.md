@@ -34,7 +34,7 @@ It only takes a moment to go to [your settings page](https://github.com/settings
 
 Go to the organization's [team page](https://github.com/orgs/18F/people) and click **Make Public**.  
 
-### Teams
+## Teams
 
 Teams can give you [`administrative`, `write`, or `read` permissions](https://help.github.com/articles/permission-levels-for-an-organization-repository/). Even if you have `write` access into a repository, we _strongly_ encourage the submission of pull requests for improvements or fixes.
 

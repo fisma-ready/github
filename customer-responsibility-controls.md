@@ -1,6 +1,6 @@
 # Using GitHub
 
-These are the requirements to join our GitHub organization. None are optional.
+These are the requirements to join our GitHub organization. None are optional, and everyone on staff _must_ have a GitHub account.
 
 ## Creating an account 
 
@@ -33,6 +33,10 @@ It only takes a moment to go to [your settings page](https://github.com/settings
 #### Make your membership public
 
 Go to the organization's [team page](https://github.com/orgs/18F/people) and click **Make Public**.  
+
+## Collaborators
+
+We welcome people form outside our organization as collaborators! Our Federal partners, their current contractors, and staff of other government entities (state, county, city), are welcome to join as long as they comply with the standards here. Anyone else needs to be evaluated on a case by case basis with the DevOps team.
 
 ## Teams
 

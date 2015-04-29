@@ -12,7 +12,7 @@ Note that signing commits with an email address is different from [setting notif
 
 If you’re using your work computer for personal projects on GitHub and want your personal email tied to those commits, you can set your GSA email as part of the global `.gitconfig`, then [override on a repository level](http://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration) with your personal email. If you have both emails [in your GitHub settings](https://github.com/settings/emails), though, they will both be tied to your GitHub account.
 
-Make sure you have [notifications turned on]((https://github.com/settings/notifications) and make sure your notifications are set up they way you'd like them.
+Make sure you have [notifications turned on](https://github.com/settings/notifications) and make sure your notifications are set up they way you'd like them.
 
 ### Setting up an account profile
 

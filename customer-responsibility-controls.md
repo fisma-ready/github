@@ -32,7 +32,7 @@ A complete [public profile](https://github.com/settings/profile) includes:
 
 #### [Add a profile avatar](https://help.github.com/articles/how-do-i-set-up-my-profile-picture/)
 
-This is a courtesy that makes team projects all the more social and fun.  It only takes a second but your teammates will _really_ appreciate it. We don't requirethat it be an actual headshot, but please make it a unique avatar.
+This is a courtesy that makes team projects all the more social and fun.  It only takes a second but your teammates will _really_ appreciate it. We don't require that it be an actual headshot, but please make it a unique avatar.
 
 It only takes a moment to go to [your settings page](https://github.com/settings/profile) and upload a picture.  
 

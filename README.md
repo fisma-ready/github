@@ -49,3 +49,7 @@ We welcome people form outside our organization as collaborators! Our Federal pa
 Teams can give you [`administrative`, `write`, or `read` permissions](https://help.github.com/articles/permission-levels-for-an-organization-repository/). Even if you have `write` access into a repository, we _strongly_ encourage the submission of pull requests for improvements or fixes.
 
 Contractors or external government collaborators should only be added to teams with scoped `write` permissions to the respositories they're working on. They should *never* have `adminsitrative` level rights. In order to separate out these permissions, create a team in the format of `projectname-admins` for government staff if necessary.
+
+## Additional resources
+
+* [The GitHub Government Community](https://github.com/government/welcome#readme)

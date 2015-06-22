@@ -26,6 +26,7 @@ This makes it easier for your team to know who you are, but most of all, it help
 
 A complete [public profile](https://github.com/settings/profile) includes:
 
+- **Name:** Your first or first and last name.  
 - **Company:** Your government agency.
 - **Location:** Your primary work location (City, State).
 - **Email:** A [verified government email address](https://help.github.com/articles/verifying-your-email-address/).

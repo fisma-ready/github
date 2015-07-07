@@ -28,7 +28,7 @@ A complete [public profile](https://github.com/settings/profile) includes:
 
 - **Company:** Your government agency.
 - **Location:** Your primary work location (City, State).
-- **Email:** A [verified government email address](https://help.github.com/articles/verifying-your-email-address/).
+- **Email:** A [valid email address](https://help.github.com/articles/verifying-your-email-address/).
 
 #### [Add a profile avatar](https://help.github.com/articles/how-do-i-set-up-my-profile-picture/)
 

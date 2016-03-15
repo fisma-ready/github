@@ -4,7 +4,7 @@ These are the requirements to join our GitHub organization. None are optional, a
 
 ## Creating and customizing an account 
 
-If you haven't created a GitHub account yet, do so with your government email, which will assist with [records retention](http://ben.balter.com/open-source-for-government/#records).  
+If you haven't created a GitHub account yet, do so with your government email, which will assist with [records retention](http://government.github.io/best-practices/records-management/).  
 
 If you already have a GitHub account, simply [add your goverment email to your existing account](https://help.github.com/articles/adding-an-email-address-to-your-github-account/). Do not create a new account. You can also set up custom email routing through the [Notifications Center](https://github.com/settings/notifications). Make sure your commits are [associated with your government email address](https://help.github.com/articles/setting-your-email-in-git).
 

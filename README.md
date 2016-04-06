@@ -54,3 +54,5 @@ Contractors or external government collaborators should only be added to teams w
 ## Additional resources
 
 * [The GitHub Government Community](https://github.com/government/welcome#readme)
+* [GitHub Government Best Practices](http://government.github.io/best-practices/)
+* [Amendment to GitHub Terms of Service Applicable to U.S. Federal Government Users](https://help.github.com/articles/amendment-to-github-terms-of-service-applicable-to-u-s-federal-government-users/)

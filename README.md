@@ -43,7 +43,7 @@ Go to the organization's [team page](https://github.com/orgs/18F/people) and cli
 
 ## Collaborators
 
-We welcome people form outside our organization as collaborators! Our Federal partners, their current contractors, and staff of other government entities (state, county, city), are welcome to join as long as they comply with the standards here. Anyone else needs to be evaluated on a case by case basis with the DevOps team.
+We welcome people from outside our organization as collaborators! Our Federal partners, their current contractors, and staff of other government entities (state, county, city), are welcome to join as long as they comply with the standards here. Anyone else needs to be evaluated on a case by case basis with the DevOps team.
 
 ## Teams
 
